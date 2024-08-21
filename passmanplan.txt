@@ -1,0 +1,10 @@
+password manager:
+ - use sql database
+ - contain passwords for various websites
+ - hash passwords for safety
+ - return password when requested
+
+to do:
+ - create database
+ - create gui 
+ - figure out how to hash passwords
